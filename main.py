@@ -6,7 +6,7 @@ root = Tk()
 root.geometry('1280x720')
 c = Canvas(root, bg='white')
 c.pack(fill=BOTH, expand=1)
-colors = ['black', 'pink']  # Color module
+colors = ['red', 'pink']  # Color module
 
 
 class Vector:
